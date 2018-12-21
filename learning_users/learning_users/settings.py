@@ -26,7 +26,7 @@ SECRET_KEY = '*e16(6qj&tdcf@y%mchgvvk2@o$6s7xuz*r^=e^+z4+5g-1tmy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zenostoic.pythonanywhere.com']
 
 
 # Application definition
